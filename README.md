@@ -13,7 +13,7 @@ This project was built using **React with Vite** to demonstrate GitHub best prac
 ---
 
 ## 🔗 Live Demo
-👉 **[View the Live App](https://your-deployment-url.com/)**  
+👉 **[View the Live App](https://mobile-desktop-c58tdnzq8-mercie-uxs-projects.vercel.app/)**  
 👉 **[GitHub Repository](https://github.com/mercie-ux/Mobile-Desktop-Stage0.git)**  
 👉 **[HNG Hire Page](http://hng.tech/hire/react-native-developers)**  
 
